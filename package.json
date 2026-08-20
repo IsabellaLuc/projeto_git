@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.23.4",
+    "npm": "^11.19.0",
+    "sequelize": "^6.37.8",
+    "warn": "^1.0.1"
+  },
+  "name": "projeto_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsabellaLuc/projeto_git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IsabellaLuc/projeto_git/issues"
+  },
+  "homepage": "https://github.com/IsabellaLuc/projeto_git#readme"
+}
